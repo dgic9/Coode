@@ -1,0 +1,48 @@
+import React from 'react';
+import { 
+  Menu, 
+  Home, 
+  History, 
+  Settings, 
+  Code, 
+  Download, 
+  Copy, 
+  Check, 
+  Zap, 
+  FolderTree,
+  FileCode,
+  Sparkles,
+  Maximize2,
+  X,
+  SlidersHorizontal,
+  Trash2,
+  Layers,
+  ChevronRight,
+  Info,
+  UploadCloud,
+  FileUp
+} from 'lucide-react';
+
+export const Icons = {
+  Menu,
+  Home,
+  History,
+  Settings,
+  Code,
+  Download,
+  Copy,
+  Check,
+  Zap,
+  FolderTree,
+  FileCode,
+  Sparkles,
+  Maximize2,
+  X,
+  SlidersHorizontal,
+  Trash2,
+  Layers,
+  ChevronRight,
+  Info,
+  UploadCloud,
+  FileUp
+};
