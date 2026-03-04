@@ -1,0 +1,5 @@
+{
+  "name": "Shahid_AI Code Architect",
+  "description": "A Material Design 3 inspired code generator app that builds project blueprints using Gemini API.",
+  "requestFramePermissions": []
+}
